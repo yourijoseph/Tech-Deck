@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ed-2026-11-17",
+    "editionNumber": 1,
+    "versionTag": "v2026.11.17",
+    "publishDate": "2026-11-17",
+    "displayDate": "Tuesday, November 17, 2026",
+    "classroomCutoff": "Friday, Nov 13, 2026",
+    "status": "Published",
+    "systemStatus": "All Systems Operational",
+    "headline": "Weekly Tech Team Updates, Patch Notes & Procedures",
+    "subheadline": "Official weekly release notes, new builds, system fixes, and updated procedures from the ES Solar Tech Team.",
+    "metrics": {
+      "buildsShipped": 0,
+      "bugsResolved": 0,
+      "policiesUpdated": 0,
+      "uptime": "100%"
+    },
+    "spotlight": {
+      "enabled": false,
+      "badge": "TECH TEAM SPOTLIGHT",
+      "headline": "",
+      "contributor": "",
+      "department": "",
+      "quote": ""
+    },
+    "items": []
+  }
+]
